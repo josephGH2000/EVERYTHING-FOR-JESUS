@@ -1,0 +1,27 @@
+h1{
+    color: rgb(240, 13, 13);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(166, 165, 163);
+    text-align: center;
+}
+p{
+    color: blue;
+    text-align: center;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.callbutton{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 3%;
+}
+.whatsapp{
+    padding-left: 10%;
+}

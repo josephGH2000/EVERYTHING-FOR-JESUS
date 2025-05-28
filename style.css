@@ -1,0 +1,37 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(166, 165, 163);
+    text-align: center;
+    background: linear-gradient(to top left, #ff0000 0%, #990033 100%);
+}
+h2{
+    background: linear-gradient(to left, #0000ff 0%, #66ccff 100%);
+}
+p{
+    color: blue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    background: linear-gradient(to left, #0000ff 0%, #66ccff 100%);
+}
+.callbutton{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 3%;
+}
+.whatsapp{
+    
+}
+footer p{
+    color: #000000;
+}
